@@ -1,0 +1,19 @@
+{
+  "name": "memecase",
+  "version": "1.0.0",
+  "description": "Take a string and make it meme case",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aosteraas/memecase.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aosteraas/memecase/issues"
+  },
+  "homepage": "https://github.com/aosteraas/memecase#readme"
+}

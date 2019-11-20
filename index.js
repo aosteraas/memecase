@@ -1,4 +1,4 @@
-function memeCase(str) {
+export function memeCase(str) {
   let upper = false;
   const lower = str.toLowerCase();
   const characters = [...str].map(s => {
